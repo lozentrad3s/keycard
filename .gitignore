@@ -11,3 +11,4 @@ neardev/
 .vercel
 wasm/out/
 wasm/keycard-api/target/
+.vscode/
