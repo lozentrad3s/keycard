@@ -10,3 +10,4 @@ neardev/
 .near-credentials/
 .vercel
 wasm/out/
+wasm/keycard-api/target/
