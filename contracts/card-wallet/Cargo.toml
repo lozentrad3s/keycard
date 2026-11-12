@@ -1,0 +1,15 @@
+[package]
+name = "card-wallet"
+description = "The contract every Keycard card account runs: it holds the card's credit and obeys only the Keycard contract"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+near-sdk = { workspace = true }
+
+[dev-dependencies]
+near-sdk = { workspace = true, features = ["unit-testing"] }
