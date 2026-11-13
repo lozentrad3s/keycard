@@ -35,7 +35,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div className="wrap">
             <div>
               <p style={{ margin: 0 }}><b style={{ color: "var(--text)" }}>Keycard</b>. Built at NEAR HACKATHON 2026 on NEAR testnet with OutLayer and NEAR AI Cloud.</p>
-              <p style={{ margin: "6px 0 0" }}>Other project by the same team: <a href="https://github.com/lozentrad3s/pause">Pause AI</a>, a scam firewall. The two are independent.</p>
             </div>
             <div className="row">
               <a href="https://github.com/lozentrad3s/keycard">GitHub</a>

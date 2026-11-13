@@ -4,8 +4,6 @@
 
 Track: **NFTs That Do Something** (`nfts`). Secondary: **Privacy & Private AI** (`privacy`), **Agent Economy** (`agents`).
 
-Keycard is a separate entry from Pause AI. It shares no code with it; each README names the other (rule Q-015).
-
 ## The problem
 
 Selling access to a paid API means handing out keys. A key can be copied, shared, leaked or resold without the provider knowing, and it cannot be taken back from one person without breaking everyone. People who bought access cannot resell what they did not use. An API key is a secret pretending to be property.

@@ -128,7 +128,7 @@ All code was written during NEAR HACKATHON (1–14 November 2026). Libraries: ne
 
 ## Other project by the same team
 
-Pause AI: a scam firewall for family money on NEAR (https://github.com/lozentrad3s/pause). A separate, independent submission.
+Disclosed under rule Q-015: the same team also submitted **Pause AI** (https://github.com/lozentrad3s/pause), an AI agent that plans, secures and pays for group events. It is an independent project: separate repository, contracts, accounts and deployment, with no shared code.
 
 ## License
 
